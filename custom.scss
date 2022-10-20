@@ -1,0 +1,22 @@
+/*-- scss:defaults --*/
+
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@300;400;600;700;800&display=swap');
+
+// Colors
+$olive-green: #9A9B5F;
+$sage-green: #79B38F;
+$teal: #3B7D6E;
+$gold: #BD973D;
+$light-gray: #949799;
+$gray: #64605f;
+
+// Base document colors
+$navbar-bg: white; //navbar background color
+$navbar-fg: $gold; //navbar text color
+$navbar-hl: $teal; //navbar hover/highlight color
+$body-bg: white; //page background color
+$body-color: $gray; //page text color
+$footer-bg: white; //footer background color
+$link-color: $sage-green; //hyperlink color
+

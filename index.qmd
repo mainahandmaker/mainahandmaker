@@ -1,11 +1,32 @@
 ---
 title: "Maina Handmaker"
+image: images/field_headshot_mch.jpg
+about: 
+  template: broadside
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/mainahandmaker
+    - icon: github
+      text: GitHub
+      href: https://github.com/mainahandmaker
+    - icon: envelope
+      text: Email
+      href: mailto:mhandmaker@umass.edu
 ---
 
-Testing, This is just a test. hello hello
+## About me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am currently a PhD student in the [Senner Lab](http://www.sennerlab.com/) at the University of Massachusetts Amherst. I study the role nocturnal roost sites play in the stopover ecology and migratory performance of Atlantic flyway Whimbrel (*Numenius phaeopus*). By tracking Whimbrel movements during and after their migratory stopovers on the coast of South Carolina, I am investigating how individuals select foraging and roosting sites and working to better understand how those choices influence their entire annual cycle.
 
-```{r}
-1 + 1
-```
+--------------------------------------------------------------------
+
+### Education
+
+<div class="topbr">
+<p class="custom-subtitle">`r fontawesome::fa("graduation-cap", fill = "#98A08D", a11y = "sem")` **BA in Environmental Studies and Visual Arts, 2011**</p>  
+<p class="custom-subtitle2">Bowdoin College</p>
+
+</div>
