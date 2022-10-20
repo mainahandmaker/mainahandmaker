@@ -1,5 +1,5 @@
 ---
-title: "Maina Handmaker"
+#title: "Maina Handmaker"
 image: images/field_headshot_mch.jpg
 about: 
   template: broadside
