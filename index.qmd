@@ -19,7 +19,11 @@ about:
 
 ## About me
 
-I am currently a PhD student in the [Senner Lab](http://www.sennerlab.com/) at the University of Massachusetts Amherst. I study the role nocturnal roost sites play in the stopover ecology and migratory performance of Atlantic flyway Whimbrel (*Numenius phaeopus*). By tracking Whimbrel movements during and after their migratory stopovers on the coast of South Carolina, I am investigating how individuals select foraging and roosting sites and working to better understand how those choices influence their entire annual cycle.
+I am an aspiring movement ecologist seeking to better understand how long-distance migratory birds might respond to environmental change, and how conservation efforts can be targeted to turn the tide for these declining species. 
+
+My research uses GPS tracking data to uncover clues about how birds select habitat at migratory stopover sites, and how those choices might influence their entire annual cycle.
+
+I am currently a PhD Student in the [Senner Lab](http://www.sennerlab.com/) in the [Environmental Conservation Department](https://eco.umass.edu/) at University of Massachusetts Amherst.
 
 --------------------------------------------------------------------
 
