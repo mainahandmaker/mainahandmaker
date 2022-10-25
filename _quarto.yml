@@ -6,10 +6,13 @@ website:
   title: "Maina Handmaker"
   favicon: images/favicon.png
   navbar:
+    title: Maina Handmaker
     left:
       - href: index.qmd
         text: Home
       - research.qmd
+      - media.qmd
+      - publications.qmd
 
 format:
   html:
